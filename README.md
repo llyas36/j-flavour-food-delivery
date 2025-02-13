@@ -21,3 +21,6 @@ This is a simple food delivery website that allows users to browse menus, place 
    git clone https://github.com/llyas36/j-flavour-food-delivery.git
 2. Set up the MySQL database. You can import the provided SQL file to create the necessary tables.
 3. Configure the database connection in the db/dbconnection.php file with your MySQL credentials.
+
+📧 Contact
+Feel free to connect with me if you have any questions or feedback!
