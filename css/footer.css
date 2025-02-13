@@ -1,0 +1,40 @@
+.about-us{
+  font-size: 15px;
+  margin: auto;
+  text-align: justify;
+
+  padding: 5px;
+
+}
+
+.nav-svg{
+    width: 35px;
+    height: 35px;
+    
+}
+
+.all-food{
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(226, 74, 74);
+  display: block; 
+  font-weight: bold;
+}
+
+.order-2{
+  background-color: rgb(225,72,74);
+  color: white;
+
+  margin: auto;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+
+#mylogo{
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+            
+}

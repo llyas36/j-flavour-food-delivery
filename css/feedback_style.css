@@ -1,0 +1,28 @@
+body{
+	background-color: rgb(233, 233, 233);
+}
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid #ddd;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f4f4f4;
+    color: rgb(226, 74, 74);
+}
+.container {
+    padding: 20px;
+}
+h2 {
+    text-align: center;
+    color: rgb(226, 74, 74);
+}
